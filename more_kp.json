@@ -1,0 +1,283 @@
+
+[
+{
+    "tree_id": "1.8.1",
+    "name": "Đại số"
+},
+{
+    "tree_id": "1.8.2",
+    "name": "Hình học"
+},
+{
+    "tree_id": "1.8.1.1",
+    "name": "Biểu thức đại số"
+},
+{
+    "tree_id": "1.8.1.2",
+    "name": "Hàm số và đồ thị"
+},
+{
+    "tree_id": "1.8.1.3",
+    "name": "Phương trình"
+},
+{
+    "tree_id": "1.8.2.1",
+    "name": "Các hình khối trong thực tiễn"
+},
+{
+    "tree_id": "1.8.2.2",
+    "name": "Định lý Pythagore"
+},
+{
+    "tree_id": "1.8.2.3",
+    "name": "Tứ giác"
+},
+{
+    "tree_id": "1.8.2.4",
+    "name": "Định lý Thales trong tam giác"
+},
+{
+    "tree_id": "1.8.2.5",
+    "name": "Hình đồng dạng"
+},
+{
+    "tree_id": "1.8.1.1.1",
+    "name": "Đa thức nhiều biến. Các phép toán cộng, trừ, nhân chia các đa thức nhiều biến"
+},
+{
+    "tree_id": "1.8.1.1.2",
+    "name": "Hằng đẳng thức đáng nhớ"
+},
+{
+    "tree_id": "1.8.1.1.3",
+    "name": "Phân thức đại số. Tính chất cơ bản của phân thức đại số. Các phép toán cộng, trừ, nhân chia các phân thức đại số"
+},
+{
+    "tree_id": "1.8.1.2.1",
+    "name": "Hàm số và đồ thị"
+},
+{
+    "tree_id": "1.8.1.2.2",
+    "name": "Hàm số bậc nhất y=ax+b và đồ thị. Hệ số góc của đường thẳng y=ax+b"
+},
+{
+    "tree_id": "1.8.1.3.1",
+    "name": "Phương trình bậc nhất"
+},
+{
+    "tree_id": "1.8.2.1.1",
+    "name": "Hình chóp tam giác đều, hình chóp tứ giác đều"
+},
+{
+    "tree_id": "1.8.2.2.1",
+    "name": "Định lý Pythagore"
+},
+{
+    "tree_id": "1.8.2.3.1",
+    "name": "Tứ giác"
+},
+{
+    "tree_id": "1.8.2.3.2",
+    "name": "Tính chất và dấu hiệu nhận biết các tứ giác đặc biệt"
+},
+{
+    "tree_id": "1.8.2.4.1",
+    "name": "Định lý Thales trong tam giác"
+},
+{
+    "tree_id": "1.8.2.5.1",
+    "name": "Tam giác đồng dạng"
+},
+{
+    "tree_id": "1.8.2.5.2",
+    "name": "Hình đồng dạng"
+},
+{
+    "tree_id": "1.7.1",
+    "name": "Đại số"
+},
+{
+    "tree_id": "1.7.2",
+    "name": "Hình học"
+},
+{
+    "tree_id": "1.7.1.1",
+    "name": "Số hữu tỉ"
+},
+{
+    "tree_id": "1.7.1.2",
+    "name": "Số thực "
+},
+{
+    "tree_id": "1.7.1.3",
+    "name": "Biểu thức đại số"
+},
+{
+    "tree_id": "1.7.2.1",
+    "name": "Các hình khối trong thực tiễn"
+},
+{
+    "tree_id": "1.7.2.2",
+    "name": "Các hình hình học cơ bản"
+},
+{
+    "tree_id": "1.7.1.1.1",
+    "name": "Số hữu tỉ và tập hợp các số hữu tỉ. Thứ tự trong tập hợp các số hữu tỉ"
+},
+{
+    "tree_id": "1.7.1.1.2",
+    "name": "Các phép tính với số hữu tỉ"
+},
+{
+    "tree_id": "1.7.1.2.1",
+    "name": "Căn bậc hai số học"
+},
+{
+    "tree_id": "1.7.1.2.2",
+    "name": "Số vô tỉ. Số thực"
+},
+{
+    "tree_id": "1.7.1.2.3",
+    "name": "Tỉ lệ thức và dãy tỉ số bằng nhau"
+},
+{
+    "tree_id": "1.7.1.2.4",
+    "name": "Giải toán về đại lượng tỉ lệ"
+},
+{
+    "tree_id": "1.7.1.3.1",
+    "name": "Biểu thức đại số"
+},
+{
+    "tree_id": "1.7.1.3.2",
+    "name": "Đa thức một biến"
+},
+{
+    "tree_id": "1.7.2.1.1",
+    "name": "Hình hộp chữ nhật và hình lập phương"
+},
+{
+    "tree_id": "1.7.2.1.2",
+    "name": "Lăng trụ đứng tam giác, lăng trụ đứng tứ giác"
+},
+{
+    "tree_id": "1.7.2.2.1",
+    "name": "Góc ở vị trí đặc biệt. Tia phân giác của một góc"
+},
+{
+    "tree_id": "1.7.2.2.2",
+    "name": "Hai đường thẳng song song. Tiên đề Euclid về đường thẳng song song"
+},
+{
+    "tree_id": "1.7.2.2.3",
+    "name": "Khái niệm định lí, chúng minh một định lí"
+},
+{
+    "tree_id": "1.7.2.2.4",
+    "name": "Tam giác. Tam giác bằng nhau. Tam giác cân. Quan hệ giữa đường vuông góc và đường xiên. Các đường đồng quy của tam giác"
+},
+{
+    "tree_id": "1.7.2.2.5",
+    "name": "Giải bài toán có nội dung hình học và vận dụng giải quyết vấn đề thực tiễn liên quan đến hình học"
+},
+{
+    "tree_id": "1.6.1",
+    "name": "Đại số"
+},
+{
+    "tree_id": "1.6.2",
+    "name": "Hình học"
+},
+{
+    "tree_id": "1.6.1.1",
+    "name": "Số tự nhiên"
+},
+{
+    "tree_id": "1.6.1.2",
+    "name": "Số nguyên"
+},
+{
+    "tree_id": "1.6.1.3",
+    "name": "Phân số"
+},
+{
+    "tree_id": "1.6.1.4",
+    "name": "Số thập phân"
+},
+{
+    "tree_id": "1.6.2.1",
+    "name": "Các hình phẳng trong thực tiễn"
+},
+{
+    "tree_id": "1.6.2.2",
+    "name": "Tính đối xứng của hình phẳng trong thế giới tự nhiên"
+},
+{
+    "tree_id": "1.6.2.3",
+    "name": "Các hình hình học cơ bản"
+},
+{
+    "tree_id": "1.6.1.1.1",
+    "name": "Số tự nhiên và tập hợp các số tự nhiên. Thứ tự trong tập hợp các số tự nhiên"
+},
+{
+    "tree_id": "1.6.1.1.2",
+    "name": "Các phép tính với số tự nhiên. Phép tính lũy thừa với số mũ tự nhiên"
+},
+{
+    "tree_id": "1.6.1.1.3",
+    "name": "Tính chia hết trong tập hợp các số tự nhiên. Số nguyên tố. Ước chung và bội chung"
+},
+{
+    "tree_id": "1.6.1.2.1",
+    "name": "Số nguyên âm và tập hợp các số nguyên. Thứ tự trong tập hợp các số nguyên"
+},
+{
+    "tree_id": "1.6.1.2.2",
+    "name": "Các phép tính với số nguyên. Tính chia hết trong tập hợp các số nguyên"
+},
+{
+    "tree_id": "1.6.1.3.1",
+    "name": "Phân số. Tính chất cơ bản của phân số. So sánh phân số"
+},
+{
+    "tree_id": "1.6.1.3.2",
+    "name": "Các phép tính với phân số"
+},
+{
+    "tree_id": "1.6.1.4.1",
+    "name": "Số thập phân và các phép tính với số thập phân. Tỉ số và tỉ số phần trăm"
+},
+{
+    "tree_id": "1.6.2.1.1",
+    "name": "Tam giác đều, hình vuông, lục giác đều"
+},
+{
+    "tree_id": "1.6.2.1.2",
+    "name": "Hình chữ nhật, hình thoi, hình bình hành, hình thang cân"
+},
+{
+    "tree_id": "1.6.2.2.1",
+    "name": "Hình có trục đối xứng"
+},
+{
+    "tree_id": "1.6.2.2.2",
+    "name": "Hình có tâm đối xứng"
+},
+{
+    "tree_id": "1.6.2.2.3",
+    "name": "Vai trò của đối xứng trong thế giới tự nhiên"
+},
+{
+    "tree_id": "1.6.2.3.1",
+    "name": "Điểm, đường thẳng, tia"
+},
+{
+    "tree_id": "1.6.2.3.2",
+    "name": "Đoạn thẳng. Độ dài đoạn thẳng"
+},
+{
+    "tree_id": "1.6.2.3.3",
+    "name": "Góc. Các góc đặc biệt. Số đo góc"
+}
+]
